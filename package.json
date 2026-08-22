@@ -34,11 +34,11 @@
     "url": "https://github.com/QualityOps/wdio-timeline-reporter/issues"
   },
   "dependencies": {
-    "@wdio/logger": "^5.8.0",
+    "@wdio/logger": "^9.29.1",
     "@wdio/reporter": "^5.7.8",
     "date-fns": "^2.2.1",
     "humanize-duration": "^3.18.0",
-    "jimp": "^0.14.0",
+    "jimp": "^1.6.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
@@ -51,8 +51,8 @@
     "@types/react-dom": "^16.0.9",
     "chai": "^4.2.0",
     "circular-json": "^0.5.7",
-    "mocha": "^6.1.4",
-    "np": "^3.0.4",
+    "mocha": "^11.8.0",
+    "np": "^12.0.1",
     "rimraf": "^2.6.2",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5"
